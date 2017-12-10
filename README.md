@@ -1,0 +1,2 @@
+# nerdbot
+NerdBot for Diiscord.
