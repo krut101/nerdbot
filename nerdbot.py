@@ -18,4 +18,4 @@ async def think(ctx):
 @bot.command(pass_context = True)
 async def bape(ctx):
     await bot.say("BAPE FTW")
-bot.run("Mzg5MTIzNDI1NTcyMDkzOTUz.DQ3E_A.XEbs_eriBnSOvin2_EXEwty79Kk")
+bot.run("")
